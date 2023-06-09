@@ -19,7 +19,7 @@ Navigate to the project directory: cd TinDog
 Open the index.html file in your preferred web browser.
 
 # Screenshot
-![Logo](SC.png)
+![Logo](images/Screenshot 2023-06-09 215145.png)
 
 # Disclaimer
 This project is a clone of the Tinder website created for learning purposes. It is not affiliated with or endorsed by Tinder in any way.
